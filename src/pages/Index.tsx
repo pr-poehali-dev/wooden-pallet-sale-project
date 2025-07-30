@@ -356,7 +356,7 @@ export default function Index() {
                 Звоните в рабочее время
               </p>
               <div className="space-y-1">
-                <div className="font-medium">+7 (495) 123-45-67</div>
+                <div className="font-medium">+7 (902) 334-95-15</div>
                 <div className="text-sm text-muted-foreground">Пн-Пт: 9:00-18:00</div>
               </div>
             </Card>
@@ -433,7 +433,7 @@ export default function Index() {
             <div>
               <h4 className="font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
-                <li>+7 (495) 123-45-67</li>
+                <li>+7 (902) 334-95-15</li>
                 <li>info@drevprom.ru</li>
                 <li>г. Ярославль, ул. Полушkина роща, 16с34</li>
               </ul>
