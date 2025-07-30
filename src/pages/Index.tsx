@@ -146,7 +146,7 @@ export default function Index() {
             </div>
             <div className="relative">
               <img 
-                src="/img/16e6f8a5-e2f2-44a5-bd45-09770b14070b.jpg" 
+                src="https://cdn.poehali.dev/files/389b4528-2b4a-4e7e-954e-34ad5965cb0a.png" 
                 alt="Деревянные поддоны" 
                 className="rounded-lg shadow-2xl w-full h-[500px] object-cover"
               />
