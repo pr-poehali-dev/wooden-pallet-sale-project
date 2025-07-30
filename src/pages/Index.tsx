@@ -384,7 +384,7 @@ export default function Index() {
                 Производство и склад
               </p>
               <div className="space-y-1">
-                <div className="font-medium">г. Москва, ул. Промышленная, 15</div>
+                <div className="font-medium">г. Ярославль, ул. Полушкина роща, 16с34</div>
                 <div className="text-sm text-muted-foreground">Производственная зона</div>
               </div>
             </Card>
@@ -435,7 +435,7 @@ export default function Index() {
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>+7 (495) 123-45-67</li>
                 <li>info@drevprom.ru</li>
-                <li>г. Москва, ул. Промышленная, 15</li>
+                <li>г. Ярославль, ул. Полушkина роща, 16с34</li>
               </ul>
             </div>
           </div>
