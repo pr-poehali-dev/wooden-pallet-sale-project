@@ -84,7 +84,7 @@ export default function Index() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Package" size={24} className="text-primary" />
-              <span className="text-xl font-bold text-primary">ДревПром</span>
+              <span className="text-xl font-bold text-primary">SMpallet</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#catalog" className="text-sm font-medium hover:text-primary transition-colors">Каталог</a>
@@ -274,7 +274,7 @@ export default function Index() {
                   Надежный партнер в сфере деревообработки
                 </h2>
                 <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                  ДревПром — это современное производственное предприятие с 10-летним опытом работы 
+                  SMpallet — это современное производственное предприятие с 10-летним опытом работы 
                   в сфере изготовления деревянных поддонов, ящиков и пиломатериалов.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
@@ -406,7 +406,7 @@ export default function Index() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Package" size={24} className="text-primary" />
-                <span className="text-xl font-bold text-primary">ДревПром</span>
+                <span className="text-xl font-bold text-primary">SMpallet</span>
               </div>
               <p className="text-sm text-muted-foreground">
                 Качественные деревянные изделия для вашего бизнеса
@@ -441,7 +441,7 @@ export default function Index() {
           </div>
           <Separator className="my-8" />
           <div className="flex flex-col md:flex-row justify-between items-center text-sm text-muted-foreground">
-            <div>© 2024 ДревПром. Все права защищены.</div>
+            <div>© 2024 SMpallet. Все права защищены.</div>
             <div className="flex gap-4 mt-4 md:mt-0">
               <a href="#" className="hover:text-primary transition-colors">Политика конфиденциальности</a>
               <a href="#" className="hover:text-primary transition-colors">Условия использования</a>
